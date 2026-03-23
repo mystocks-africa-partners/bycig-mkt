@@ -70,7 +70,7 @@ docker-compose down
 
 * Contributions are welcome!
 * Feel free to fork the repo and submit a pull request.
-* **Note!** all work completed as a community engineer is purely volunteer, and it is only employees of MyStocks Africa who are entitled to payment.
+* **Note!** all work completed as a community engineer is purely volunteer, and it is only employees of BYCIG who are entitled to payment.
 * You may use the experience in your CV/Resume for future employment however.
 
 ## 📄 License
